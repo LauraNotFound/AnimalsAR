@@ -1,0 +1,1 @@
+C:\Users\lcmm9\Desktop\Proyectos\CourseVR\Catalog\Library\PramData\AndroidApplicationController\Cache\com.LauraNotFound.Catalog\gradle-project\unityLibrary\build\intermediates\cxx\Debug\1r5i126p\obj\arm64-v8a
