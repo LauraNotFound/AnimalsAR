@@ -8,3 +8,5 @@ También puedes probar el aplicativo antes de clonar:
 - Utiliza track.jpg para probar el app.
 
 Si te gustó y/o resultó util déjame una ⭐
+
+![Demo de la aplicación AnimalsAR](https://github.com/LauraNotFound/AnimalsAR/blob/d3b1d936020234a1bf4ab2ecc5cb31eba7031c39/demo.mp4)
