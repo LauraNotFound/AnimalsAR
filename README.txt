@@ -9,4 +9,4 @@ También puedes probar el aplicativo antes de clonar:
 
 Si te gustó y/o resultó util déjame una ⭐
 
-![Ícono de la aplicación](iconAnimalsAR.png)
+![Demo de la aplicación](https://drive.google.com/file/d/189X6j24S72aQJsybZZop0pPWpJCQzoCN/view?usp=drive_link)
