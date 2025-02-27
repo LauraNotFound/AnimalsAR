@@ -8,5 +8,3 @@ También puedes probar el aplicativo antes de clonar:
 - Utiliza track.jpg para probar el app.
 
 Si te gustó y/o resultó util déjame una ⭐
-
-[![Demo de la aplicación](https://img.shields.io/badge/Ver-Video-blue)](https://github.com/LauraNotFound/AnimalsAR/raw/main/demo.mp4)
