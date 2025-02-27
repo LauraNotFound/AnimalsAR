@@ -9,4 +9,4 @@ También puedes probar el aplicativo antes de clonar:
 
 Si te gustó y/o resultó util déjame una ⭐
 
-![Ícono de la aplicación](/iconAnimalsAR.png)
+![Ícono de la aplicación](iconAnimalsAR.png)
