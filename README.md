@@ -8,7 +8,7 @@ También puedes probar el aplicativo antes de clonar:
 - Descarga Animals.apk para probar el app.
 - Utiliza track.jpg para probar el app.
 
-Si te gustó y/o resultó util déjame una ⭐
+Si te gustó y/o resultó útil déjame una ⭐
 
 Demo del app
 
