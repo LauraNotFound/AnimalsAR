@@ -9,4 +9,10 @@ También puedes probar el aplicativo antes de clonar:
 
 Si te gustó y/o resultó util déjame una ⭐
 
+Demo del app
+
+https://github.com/user-attachments/assets/ea22eb69-b516-4dd2-b112-65525a8fec14
+
+Track para activar la AR
+
 ![image alt](https://raw.githubusercontent.com/LauraNotFound/AnimalsAR/refs/heads/main/track.jpg)
