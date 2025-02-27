@@ -9,4 +9,4 @@ También puedes probar el aplicativo antes de clonar:
 
 Si te gustó y/o resultó util déjame una ⭐
 
-![image alt](https://github.com/LauraNotFound/AnimalsAR/blob/main/iconAnimalsAR.png?raw=true)
+![image alt](https://github.com/LauraNotFound/AnimalsAR/blob/main/screenshot.png?raw=true)
